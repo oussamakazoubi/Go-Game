@@ -1,0 +1,4 @@
+020 OX   OXXO OX  OX  OX   XOO       XX XXX XXX XOOO OOOXXOOOXOOOX XXX XXX          Rules
+210XXO   XO XXO   XO       XO O     XOO       X               OOOO    OXXXX    O    AI test
+220 O O O O OOO O OOOO OOOOOOXOOOXXXOXXOX XXXOXXXXXXXXO XXXXXXXOOOX X XXO X XXXXXO XVsAI
+210                                                                                 1

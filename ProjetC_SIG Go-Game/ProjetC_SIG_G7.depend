@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1676874134 source:c:\users\oussama\desktop\projetc_sig_g7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AI.c"
+
+1676875271 c:\users\oussama\desktop\projetc_sig_g7\ai.c
+	"Process.c"
+	<time.h>
+
+1676874835 c:\users\oussama\desktop\projetc_sig_g7\process.c
+	<stdio.h>
+	<stdlib.h>
+	"Display.c"
+
+1676874134 c:\users\oussama\desktop\projetc_sig_g7\display.c
+	<windows.h>
+	<string.h>
+	"Headers.h"
+
+1676874134 c:\users\oussama\desktop\projetc_sig_g7\headers.h
+
+1676913656 source:c:\users\oussama\desktop\2023_projetc_sig_kazoubi-oussama_abouchaouar-hasnae_allali-soukaina\projetc_sig_g7\main.c
+	"AI.c"
+
+1676924704 c:\users\oussama\desktop\2023_projetc_sig_kazoubi-oussama_abouchaouar-hasnae_allali-soukaina\projetc_sig_g7\ai.c
+	"Process.c"
+	<time.h>
+
+1676927185 c:\users\oussama\desktop\2023_projetc_sig_kazoubi-oussama_abouchaouar-hasnae_allali-soukaina\projetc_sig_g7\process.c
+	<stdio.h>
+	<stdlib.h>
+	"Display.c"
+
+1676907644 c:\users\oussama\desktop\2023_projetc_sig_kazoubi-oussama_abouchaouar-hasnae_allali-soukaina\projetc_sig_g7\display.c
+	<windows.h>
+	<string.h>
+	"Headers.h"
+
+1676907645 c:\users\oussama\desktop\2023_projetc_sig_kazoubi-oussama_abouchaouar-hasnae_allali-soukaina\projetc_sig_g7\headers.h
+
+1676874835 source:c:\users\oussama\desktop\2023_projetc_sig_kazoubi-oussama_abouchaouar-hasnae_allali-soukaina\projetc_sig_g7\process.c
+	<stdio.h>
+	<stdlib.h>
+	"Display.c"
+
+1676906709 source:c:\users\oussama\desktop\2023_projetc_sig_kazoubi-oussama_abouchaouar-hasnae_allali-soukaina\projetc_sig_g7\ai.c
+	"Process.c"
+	<time.h>
+
+1676910056 source:c:\users\oussama\desktop\test\2023_projetc_sig_kazoubi-oussama_abouchaouar-hasnae_allali-soukaina\projetc_sig_g7\main.c
+	"AI.c"
+
+1676921104 c:\users\oussama\desktop\test\2023_projetc_sig_kazoubi-oussama_abouchaouar-hasnae_allali-soukaina\projetc_sig_g7\ai.c
+	"Process.c"
+	<time.h>
+
+1678990018 c:\users\oussama\desktop\test\2023_projetc_sig_kazoubi-oussama_abouchaouar-hasnae_allali-soukaina\projetc_sig_g7\process.c
+	<stdio.h>
+	<stdlib.h>
+	"Display.c"
+
+1676904044 c:\users\oussama\desktop\test\2023_projetc_sig_kazoubi-oussama_abouchaouar-hasnae_allali-soukaina\projetc_sig_g7\display.c
+	<windows.h>
+	<string.h>
+	"Headers.h"
+
+1676904045 c:\users\oussama\desktop\test\2023_projetc_sig_kazoubi-oussama_abouchaouar-hasnae_allali-soukaina\projetc_sig_g7\headers.h
+
